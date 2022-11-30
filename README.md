@@ -6,7 +6,7 @@
     <a href="https://www.instagram.com/abdelhady360"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
   </p>
   
-  <img src="https://i.imgur.com/rUvQsHD.gif" align="right" width="50%"/>
+  <img src="https://i.imgur.com/rUvQsHD.gif" align="right" width="40%"/>
 
 I'm a software developer who is passionate about creating technology to elevate people and help new developers to find the right path. Some technologies I enjoy working with include Javascript, ReactJS, React-Native, and Firebase.
 
