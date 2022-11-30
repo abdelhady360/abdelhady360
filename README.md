@@ -9,7 +9,7 @@
   <img src="https://github.com/mohamedabusrea/mohamedabusrea/blob/master/profile-img.png" align="right" width="25%"/>
 
 
-I'm a software developer who is passionate about creating technology to elevate people and help new developers to find the right path. Some technologies I enjoy working with include Javascript, ReactJS, React-Native, and Firebase.
+A student aspiring to work in the field of cyber security. I am constantly learning and applying it in different CTFs, other than as a freelance bug hunter.
 
 - 🔭 I'm a software developer [@Deliveryhero](https://www.deliveryhero.com/) in Berlin, Germany
 - 🔍 I have 2 live apps: 
