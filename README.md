@@ -9,13 +9,14 @@
   <img src="https://github.com/mohamedabusrea/mohamedabusrea/blob/master/profile-img.png" align="right" width="25%"/>
 
 
-A student aspiring to work in the field of cyber security. I am constantly learning and applying it in different CTFs, other than as a freelance bug hunter.
+A student aspiring to work in the field of cyber security. I am constantly learning and applying new concepts In various CTFs, In my free time I hack Bug Bounty programs.
 
-- 🔭 I'm a software developer [@Deliveryhero](https://www.deliveryhero.com/) in Berlin, Germany
-- 🔍 I have 2 live apps: 
-  - [Quran-tab (chrome extension)](https://chrome.google.com/webstore/detail/quran-tab/afaihcdgkjebgabomemccdneglknjkdd)
-  - Wazaker App ([Android version](https://play.google.com/store/apps/details?id=com.wazakerdailyaya&gl=DE), [iOS version](https://apps.apple.com/app/apple-store/id1453500014))
-- 💬 Ask me about **ReactJs and Frontend**
+
+- 🔍 You can also have a look here : 
+  - HackerOne : [@Abdelhady360)](https://hackerone.com/abdelhady-360)
+  - BugCrowd : [@Abdelhady360](https://bugcrowd.com/abdelhady360)
+  - HackThebox : [@Abdelhady360](https://app.hackthebox.com/profile/1106502)
+- 💬 Ask me about **Web Application and Network Penetration Testing**
 
 
 
