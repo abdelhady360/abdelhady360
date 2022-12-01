@@ -9,11 +9,14 @@
   <img src="https://github.com/mohamedabusrea/mohamedabusrea/blob/master/profile-img.png" align="right" width="25%"/>
 
 
-A student aspiring to work in the field of cyber security. I am constantly learning and applying new concepts In various CTFs, In my free time I hack Bug Bounty programs.
+A student aspiring to work in the field of cyber security. I am constantly learning and applying new concepts In various CTFs, In my free time I hack Bug Bounty programs, I also have some experience in using the **PHP** programming language, as I have presented some projects, both private and public.
 
+- Have some new skills in :
+  - Frontend :
+    -F
 
 - 🔍 You can also have a look here : 
-  - HackerOne : [@Abdelhady360)](https://hackerone.com/abdelhady-360)
+  - HackerOne : [@Abdelhady360](https://hackerone.com/abdelhady-360)
   - BugCrowd : [@Abdelhady360](https://bugcrowd.com/abdelhady360)
   - HackThebox : [@Abdelhady360](https://app.hackthebox.com/profile/1106502)
 - 💬 Ask me about **Web Application and Network Penetration Testing**
