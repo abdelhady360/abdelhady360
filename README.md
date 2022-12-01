@@ -9,7 +9,7 @@
   <img src="https://github.com/mohamedabusrea/mohamedabusrea/blob/master/profile-img.png" align="right" width="25%"/>
 
 
-A student aspiring to work in the field of cyber security. I am constantly learning and applying new concepts In various CTFs, In my free time I hack Bug Bounty programs, I also have some experience in using the **PHP** programming language, as I have presented some projects, both private and public.
+A aspiring to work in the field of cyber security. I am constantly learning and applying new concepts In various CTFs, In my free time I hack Bug Bounty programs, I also have some experience in using the **PHP** programming language, as I have presented some projects, both private and public.
 
 - 👨‍💻 Software skills :
   - **Frontend** : HTML5, CSS3, JS, Bootstrap.
