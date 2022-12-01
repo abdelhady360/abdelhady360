@@ -11,9 +11,9 @@
 
 A student aspiring to work in the field of cyber security. I am constantly learning and applying new concepts In various CTFs, In my free time I hack Bug Bounty programs, I also have some experience in using the **PHP** programming language, as I have presented some projects, both private and public.
 
-- Have some new skills in :
-  - Frontend :
-    -F
+- 👨‍💻 Software skills :
+  - **Frontend** : HTML5, CSS3, JS, Bootstrap.
+  - **Backend** : PHP, OOP, LARAVEL, My Sql.
 
 - 🔍 You can also have a look here : 
   - HackerOne : [@Abdelhady360](https://hackerone.com/abdelhady-360)
