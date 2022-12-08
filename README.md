@@ -12,8 +12,10 @@
 A aspiring to work in the field of cyber security. I am constantly learning and applying new concepts In various CTFs, In my free time I hack Bug Bounty programs, I also have some experience in using the **PHP** programming language, as I have presented some projects, both private and public.
 
 - 👨‍💻 Software skills :
-  - **Frontend** : HTML5, CSS3, JS, Bootstrap.
-  - **Backend** : PHP, OOP, LARAVEL, My Sql.
+  - **Frontend** : HTML5 - CSS3 - JS - Bootstrap.
+  - **Backend** : PHP - OOP.
+  - **Framework** : laravel framework.
+  - **Database** : MySql.
 
 - 🔍 You can also have a look here : 
 
